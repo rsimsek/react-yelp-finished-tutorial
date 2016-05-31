@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="resources/readme/fullstackreact-yelp-clone-tutorial.png" alt="Fullstack React Yelp Clone Tutorial" />
 </p>
@@ -119,3 +120,7 @@ This app is only one of several apps we have in the book. If you're looking to l
 ## License
  [MIT](/LICENSE)
 
+=======
+# react-yelp-finished-tutorial
+React Yelp Tutorial Finished
+>>>>>>> 8d509d6ccc8c676eeafb3a0473076f1e74bfa478
